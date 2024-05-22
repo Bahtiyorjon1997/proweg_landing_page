@@ -1,13 +1,15 @@
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 1rem 2rem;
-  background-color: #333;
+  background-color: #00264d;
   color: white;
 }
 
 .logo {
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .nav ul {
@@ -19,4 +21,9 @@
 .nav a {
   color: white;
   text-decoration: none;
+  font-size: 1rem;
+}
+
+.nav a:hover {
+  text-decoration: underline;
 }
