@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/proweg_landing_page/static/css/main.24e393d7.css",
+    "main.css": "/proweg_landing_page/static/css/main.caee0c64.css",
     "main.js": "/proweg_landing_page/static/js/main.3dfb16bc.js",
     "static/js/453.618633d9.chunk.js": "/proweg_landing_page/static/js/453.618633d9.chunk.js",
     "static/media/proweb_image.webp": "/proweg_landing_page/static/media/proweb_image.55f8296d69a1ce5ff8e9.webp",
     "index.html": "/proweg_landing_page/index.html",
-    "main.24e393d7.css.map": "/proweg_landing_page/static/css/main.24e393d7.css.map",
+    "main.caee0c64.css.map": "/proweg_landing_page/static/css/main.caee0c64.css.map",
     "main.3dfb16bc.js.map": "/proweg_landing_page/static/js/main.3dfb16bc.js.map",
     "453.618633d9.chunk.js.map": "/proweg_landing_page/static/js/453.618633d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24e393d7.css",
+    "static/css/main.caee0c64.css",
     "static/js/main.3dfb16bc.js"
   ]
 }
